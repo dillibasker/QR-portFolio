@@ -1,7 +1,7 @@
 import { QRCodeCanvas } from "qrcode.react"; // Correct named import
 
 function App() {
-  const portFolio = "https://portfolio-three-rho-51.vercel.app/";
+  const portFolio = "https://my-portfolio-seven-lake-72.vercel.app/";
   
   return (
     <>
